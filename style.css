@@ -1,0 +1,17 @@
+* { box-sizing: border-box; }
+
+body {
+ font-family: Verdana, Geneva, sans-serif;
+ background-color: #d4d4d4;
+}
+
+article {
+ width: 1000px;
+ margin: 40px auto;
+ padding: 20px 150px 60px;
+ background-color: #f0f0f0;
+ box-shadow: 0 0 16px rgba(0, 0, 0, 0.7);
+}
+
+#main { border: 2px solid #ddd; }
+h1, h2, h3 { font-family: 'Century Gothic', monospace;}
